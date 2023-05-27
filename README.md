@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco Neme!</h1>
 <h3 align="center">Biotechnology Engineering student passionate about data science.</h3>
 
-- 🔭 I’m currently working on a University research project, which deals with **Mathematical modeling and simulation of a bioprocess.**
+- 🔭 I’m currently working on a University research project, which deals with **mathematical modeling and simulation of a bioprocess**.
 
 - 🌱 I’m currently learning:  
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **francogastonneme@gmail.com**
 
-- 🥅 2023 Goals: Start with the next university research project, which is about "open source reactor design".
+- 🥅 2023 Goals: Start with the next university research project, which is about **open source reactor design**.
 
 - 👯 I’m looking to collaborate with other data scientists :wink:
 
