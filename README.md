@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Franco Neme!</h1>
 <h3 align="center">Biotechnology Engineering student passionate about data science.</h3>
 
-Studying "Diploma in Python oriented to data scientist" in InstitutoDataScience. Studying Biotechnology Engineering in National University of Río Negro (Argentina).
-Exploring the convergence of Engineering and Data Science to drive process optimization and generate innovative solutions.
+Studying "Diploma in Python oriented to data scientist" in InstitutoDataScience. </p>
+Studying Biotechnology Engineering in National University of Río Negro (Argentina).
 
- */ ### I am a Front-End Developer at Cloudstok Technologies /*
+ ### Exploring the convergence of Engineering and Data Science to drive process optimization and generate innovative solutions.
 
 - 🔭 I’m currently working on a University research project, which deals with **Mathematical modeling and simulation of a bioprocess.**  The modeling is carried out by estimating kinetic parameters solving optimization problems and statistical data analysis.
 
