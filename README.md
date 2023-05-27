@@ -13,7 +13,7 @@
 
 - 🥅 2023 Goals: Start with the next university research project, which is about "open source reactor design".
 
-- 👯 I’m looking to collaborate with other Developers :wink:
+- 👯 I’m looking to collaborate with other data scientists :wink:
 
 - 💬 Ask me about anything, I am happy to help :smile:
 
