@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Franco Neme!</h1>
+<h3 align="center">Biotechnology Engineering student passionate about data science.</h3>
 
-<!--
-**FrancoNeme/FrancoNeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studying "Diploma in Python oriented to data scientist" in InstitutoDataScience. Studying Biotechnology Engineering in National University of Río Negro (Argentina).
+Exploring the convergence of Engineering and Data Science to drive process optimization and generate innovative solutions.
 
-Here are some ideas to get you started:
+ */ ### I am a Front-End Developer at Cloudstok Technologies /*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a University research project, which deals with **Mathematical modeling and simulation of a bioprocess.**  The modeling is carried out by estimating kinetic parameters solving optimization problems and statistical data analysis.
+
+- 🌱 I’m currently learning:  
+
+Data visualization and exploratory data analysis.
+Deepening my knowledge in statistical modeling and optimization.
+Advanced techniques in machine learning with Python.
+
+- 📫 How to reach me **francogastonneme@gmail.com**
+
+- 🥅 2023 Goals: Start with the next university research project, which is about "open source reactor design".
+
+- 👯 I’m looking to collaborate with other Developers :wink:
+
+- 💬 Ask me about anything, I am happy to help :smile:
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/franco-gast%C3%B3n-neme-70675a262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franco-gast%C3%B3n-neme-70675a262" height="30" width="40" /></a>
+ </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="40" height="40"/> </a> <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" alt="LaTeX" width="40" height="40"/> </a> </p>
