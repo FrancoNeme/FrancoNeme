@@ -5,7 +5,7 @@ Studying "Diploma in Python oriented to data scientist" in InstitutoDataScience.
 Studying Biotechnology Engineering in National University of Río Negro (Argentina).
 
 
-- 🔭 I’m currently working on a University research project, which deals with **Mathematical modeling and simulation of a bioprocess.**  The modeling is carried out by estimating kinetic parameters solving optimization problems and statistical data analysis.
+- 🔭 I’m currently working on a University research project, which deals with **Mathematical modeling and simulation of a bioprocess.**
 
 - 🌱 I’m currently learning:  
 
