@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franco Neme!</h1>
 <h3 align="center">Biotechnology Engineering student passionate about data science.</h3>
 
-Studying "Diploma in Python oriented to data scientist" in InstitutoDataScience. </p>
-Studying Biotechnology Engineering in National University of Río Negro (Argentina).
-
-
 - 🔭 I’m currently working on a University research project, which deals with **Mathematical modeling and simulation of a bioprocess.**
 
 - 🌱 I’m currently learning:  
