@@ -4,7 +4,6 @@
 Studying "Diploma in Python oriented to data scientist" in InstitutoDataScience. </p>
 Studying Biotechnology Engineering in National University of Río Negro (Argentina).
 
- ## Exploring the convergence of Engineering and Data Science to drive process optimization and generate innovative solutions.
 
 - 🔭 I’m currently working on a University research project, which deals with **Mathematical modeling and simulation of a bioprocess.**  The modeling is carried out by estimating kinetic parameters solving optimization problems and statistical data analysis.
 
