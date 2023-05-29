@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Franco Neme!</h1>
+<h1 align="center">Hi 👋, I'm Franco!</h1>
 <h3 align="center">Biotechnology Engineering student passionate about data science.</h3>
 
 - 🔭 I’m currently working on a University research project, which deals with **mathematical modeling and simulation of a bioprocess**.
